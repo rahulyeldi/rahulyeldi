@@ -1,5 +1,5 @@
 <h1 align="center">Hi, user</h1>
-<h3 align="center">Passionate about Data Science</h3>
+<h3 align="center">I'm Passionate about Data Science</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
